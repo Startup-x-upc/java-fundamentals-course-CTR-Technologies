@@ -11,7 +11,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 **Público objetivo:** Estudiantes de 12 a 17 años sin experiencia en programación  
 **Prerrequisitos:** Ninguno  
 **Herramientas necesarias:** **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)  
-**Editores de código:** [JDoodle](https://www.jdoodle.com/online-java-compiler)  · [Replit](https://replit.com/languages/java)  
+**Editores de código:** [JDoodle](https://www.jdoodle.com/online-java-compiler)  
 **Repositorio de código fuente:** [https://github.com/Startup-x-upc/java-fundamentals-course-CTR-Technologies.git](https://github.com/Startup-x-upc/java-fundamentals-course-CTR-Technologies.git)
 
 ---
@@ -23,7 +23,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 - **Descripción:** Aprende qué es la programación, para qué se usa Java y cómo ejecutar tu primer programa. Escribiremos nuestro primer `Hola, mundo` y entenderemos cómo funciona un programa básico.
 - **Enlace:** [Ver la lección]()
 - **Conclusiones clave:** Java se usa en aplicaciones, juegos y más; `System.out.println()` muestra texto en pantalla.
-- **Practica aquí:** [Abrir en JDoodle](https://www.jdoodle.com/online-java-compiler) — ¡No necesitas registrarte!
+- **Practica aquí:** [Abrir en JDoodle](https://www.jdoodle.com/ga/4N0394H5bz9%2F4D4gjV9ubQ%3D%3D) — ¡No necesitas registrarte!
 
 ---
 
@@ -32,7 +32,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 - **Descripción:** Aprende a almacenar información con variables. Usaremos `int`, `String`, `double` y `boolean` para guardar datos de un estudiante: su nombre, edad y promedio. También exploraremos los operadores básicos.
 - **Enlace:** [Ver la lección]()
 - **Conclusiones clave:** `int edad = 15;`, `String nombre = "Ana";`, operadores `+`, `-`, `*`, `/`.
-- **Practica aquí:** [Abrir en JDoodle](https://www.jdoodle.com/online-java-compiler) — ¡Sin registro!
+- **Practica aquí:** [Abrir en JDoodle](https://www.jdoodle.com/ga/FPSBqNcO1gmo6VQ2CtlIEw%3D%3D) — ¡Sin registro!
 
 ---
 
@@ -41,7 +41,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 - **Descripción:** Aprende a tomar decisiones con `if-else` y a repetir acciones con `for` y `while`. Usaremos esto para determinar si un estudiante aprobó o reprobó según su promedio.
 - **Enlace:** [Ver la lección]()
 - **Conclusiones clave:** `if (promedio >= 11) { ... }`, `for (int i = 0; i < 5; i++) { ... }`.
-- **Practica aquí:** [Abrir en JDoodle](https://www.jdoodle.com/online-java-compiler) — ¡Inicio inmediato!
+- **Practica aquí:** [Abrir en JDoodle](https://www.jdoodle.com/ga/%2F1sG1PHdawtWjhw2Js7FGw%3D%3D) — ¡Inicio inmediato!
 
 ---
 
@@ -50,7 +50,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 - **Descripción:** Aprende a crear bloques de código reutilizables llamados métodos, y a pedir datos al usuario con `Scanner`. Crearemos un método que solicita el nombre de un estudiante y lo muestra en pantalla.
 - **Enlace:** [Ver la lección]()
 - **Conclusiones clave:** `public static void mostrarInfo() { ... }`, `Scanner sc = new Scanner(System.in);`.
-- **Practica aquí:** [Abrir en OnlineGDB](https://www.onlinegdb.com/online_java_compiler) — ¡No necesitas registrarte!
+- **Practica aquí:** [Abrir en JDoodle](https://www.jdoodle.com/ga/gytq6%2FZgXneQyVHvRvSCXw%3D%3D) — ¡No necesitas registrarte!
 
 ---
 
@@ -59,7 +59,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 - **Descripción:** Descubre qué es la programación orientada a objetos. Crearemos la clase `Estudiante` con atributos como nombre, edad y promedio, y aprenderemos a construir objetos a partir de ella usando constructores.
 - **Enlace:** [Ver la lección]()
 - **Conclusiones clave:** `class Estudiante { ... }`, `Estudiante e = new Estudiante("Ana", 15, 14.5);`.
-- **Practica aquí:** [Abrir en Replit](https://replit.com/languages/java) — ¡Guarda y comparte tu código!
+- **Practica aquí:** [Abrir en JDoodle](https://www.jdoodle.com/ga/3FDQWJOKvgEOyOWodQ1FEg%3D%3D) — ¡Guarda y comparte tu código!
 
 ---
 
@@ -68,7 +68,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 - **Descripción:** Aprende a proteger los datos de una clase con encapsulación. Modificaremos la clase `Estudiante` para usar atributos privados y métodos públicos de acceso y modificación.
 - **Enlace:** [Ver la lección]()
 - **Conclusiones clave:** `private String nombre;`, `public String getNombre() { return nombre; }`, `public void setNombre(String nombre) { ... }`.
-- **Practica aquí:** [Abrir en Replit](https://replit.com/languages/java) — ¡No necesitas descargar nada!
+- **Practica aquí:** [Abrir en JDoodle](https://www.jdoodle.com/ga/pH7rNMx1FfI3zB3yzOsOzg%3D%3D) — ¡No necesitas descargar nada!
 
 ---
 
@@ -77,7 +77,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 - **Descripción:** Combinamos todo lo aprendido: usamos un array para almacenar varios objetos `Estudiante`, recorremos la lista con un bucle y mostramos quién aprobó y quién no. El resultado es nuestro programa completo.
 - **Enlace:** [Ver la lección]()
 - **Conclusiones clave:** `Estudiante[] registro = new Estudiante[5];`, iterar con `for`, mostrar resultados con condiciones.
-- **Proyecto final:** [Abrir en Replit](https://replit.com/languages/java) — ¡Guarda y comparte!
+- **Proyecto final:** [Abrir en JDoodle](https://www.jdoodle.com/ga/QgtkJwAppp2mARb9tM9mRw%3D%3D) — ¡Guarda y comparte!
 
 ---
 
@@ -93,17 +93,17 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 ## Recursos Adicionales
 
 - **Código fuente completo:** [Repositorio de GitHub](https://github.com/Startup-x-upc/java-fundamentals-course-CTR-Technologies.git)
-- **Editores utilizados:** [JDoodle](https://www.jdoodle.com) · [OnlineGDB](https://www.onlinegdb.com) · [Replit](https://replit.com)
+- **Editores utilizados:** [JDoodle](https://www.jdoodle.com) 
 
 | Número de lección | Actividad | Empezar a programar |
 |---|---|---|
-| 1 | Hola, mundo | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
-| 2 | Variables y tipos de datos | [JDoodle](https://www.jdoodle.com/online-java-compiler) |
-| 3 | Decisiones y bucles | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
-| 4 | Métodos y Scanner | [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) |
-| 5 | Clases y objetos | [Replit](https://replit.com/languages/java) |
-| 6 | Getters y Setters | [Replit](https://replit.com/languages/java) |
-| 7 | Proyecto final | [Replit](https://replit.com/languages/java) |
+| 1 | Hola, mundo | [JDoodle](https://www.jdoodle.com/ga/4N0394H5bz9%2F4D4gjV9ubQ%3D%3D) |
+| 2 | Variables y tipos de datos | [JDoodle](https://www.jdoodle.com/ga/FPSBqNcO1gmo6VQ2CtlIEw%3D%3D) |
+| 3 | Decisiones y bucles | [JDoodle](https://www.jdoodle.com/ga/%2F1sG1PHdawtWjhw2Js7FGw%3D%3D) |
+| 4 | Métodos y Scanner | [JDoodle](https://www.jdoodle.com/ga/gytq6%2FZgXneQyVHvRvSCXw%3D%3D) |
+| 5 | Clases y objetos | [JDoodle](https://www.jdoodle.com/ga/3FDQWJOKvgEOyOWodQ1FEg%3D%3D) |
+| 6 | Getters y Setters | [JDoodle](https://www.jdoodle.com/ga/pH7rNMx1FfI3zB3yzOsOzg%3D%3D) |
+| 7 | Proyecto final | [JDoodle](https://www.jdoodle.com/ga/QgtkJwAppp2mARb9tM9mRw%3D%3D) |
 | 8 | Buenas prácticas | — |
 
 ---
@@ -117,7 +117,7 @@ Período 202610
 NRC 10155
 
 **Nombre del equipo:** CTR Technologies  
-**Líder del equipo:** Aguirre Ramos, Eduardo 
+**Líder del equipo:** Aguirre Ramos, Eduardo  
 **Integrantes del equipo:**
 - Castillo Vidal, Jesús Iván
 - Aguirre Ramos, Eduardo
