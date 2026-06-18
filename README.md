@@ -2,16 +2,17 @@
 
 ## Resumen del Curso
 
-Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo conceptos básicos de programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web.
+Este proyecto forma parte del trabajo complementario del curso **Desarrollo de Aplicaciones Open Source (1ASI0729)** de la **Universidad Peruana de Ciencias Aplicadas (UPC)**.  
+El objetivo es diseñar un curso para enseñar los **fundamentos de la programación con Java** a estudiantes de secundaria, usando como proyecto final la creación de un **Sistema de Registro de Estudiantes**.
 
-A lo largo del curso construiremos juntos un **Sistema de Registro de Estudiantes**: una aplicación que almacena y muestra información de alumnos, y que iremos completando lección a lección.
+El curso se compone de videos cortos, prácticas interactivas en editores de código online y un repositorio con ejemplos de código.
 
-**Duración total:** ~63 minutos  
+**Duración total:**   
 **Público objetivo:** Estudiantes de 12 a 17 años sin experiencia en programación  
 **Prerrequisitos:** Ninguno  
 **Herramientas necesarias:** **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)  
 **Editores de código:** [JDoodle](https://www.jdoodle.com/online-java-compiler) · [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) · [Replit](https://replit.com/languages/java)  
-**Repositorio de código fuente:** [https://github.com/Startup-x-upc/java-fundamentals-course-chapa-tu-ruta](https://github.com/Startup-x-upc/java-fundamentals-course-chapa-tu-ruta)
+**Repositorio de código fuente:** [https://github.com/Startup-x-upc/java-fundamentals-course-CTR-Technologies.git](https://github.com/Startup-x-upc/java-fundamentals-course-CTR-Technologies.git)
 
 ---
 
@@ -91,7 +92,7 @@ A lo largo del curso construiremos juntos un **Sistema de Registro de Estudiante
 
 ## Recursos Adicionales
 
-- **Código fuente completo:** [Repositorio de GitHub](https://github.com/Startup-x-upc/java-fundamentals-course-chapa-tu-ruta)
+- **Código fuente completo:** [Repositorio de GitHub](https://github.com/Startup-x-upc/java-fundamentals-course-CTR-Technologies.git)
 - **Editores utilizados:** [JDoodle](https://www.jdoodle.com) · [OnlineGDB](https://www.onlinegdb.com) · [Replit](https://replit.com)
 
 | Número de lección | Actividad | Empezar a programar |
@@ -115,23 +116,23 @@ Período 202610
 1ASI0729 Desarrollo de Aplicaciones Open Source  
 NRC 10155
 
-**Nombre del equipo:** [nombre del equipo]  
-**Líder del equipo:** [Nombres y Apellidos]  
+**Nombre del equipo:** CTR Technologies  
+**Líder del equipo:** Aguirre Ramos, Eduardo 
 **Integrantes del equipo:**
 - Castillo Vidal, Jesús Iván
 - Aguirre Ramos, Eduardo
 - Pillaca Gonzales, Andy
 - Torres Sanchez, Dalila
-- [Tu apellido], Sebastian
+- Aiquipa Poma, Sebastian
 
-**Fecha de entrega:** [Fecha]
+**Fecha de entrega:** 17 de junio de 2026
 
 ---
 
 ## Estructura del repositorio
 
 ```
-java-fundamentals-course-[nombre-equipo]/
+java-fundamentals-course-chapa-tu-ruta/
 ├── README.md
 ├── starter-files/
 │   ├── Lesson1_HelloWorld.java
