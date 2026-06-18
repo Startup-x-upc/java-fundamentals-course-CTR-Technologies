@@ -11,7 +11,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 **Público objetivo:** Estudiantes de 12 a 17 años sin experiencia en programación  
 **Prerrequisitos:** Ninguno  
 **Herramientas necesarias:** **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)  
-**Editores de código:** [JDoodle](https://www.jdoodle.com/online-java-compiler) · [OnlineGDB](https://www.onlinegdb.com/online_java_compiler) · [Replit](https://replit.com/languages/java)  
+**Editores de código:** [JDoodle](https://www.jdoodle.com/online-java-compiler)  · [Replit](https://replit.com/languages/java)  
 **Repositorio de código fuente:** [https://github.com/Startup-x-upc/java-fundamentals-course-CTR-Technologies.git](https://github.com/Startup-x-upc/java-fundamentals-course-CTR-Technologies.git)
 
 ---
@@ -41,7 +41,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 - **Descripción:** Aprende a tomar decisiones con `if-else` y a repetir acciones con `for` y `while`. Usaremos esto para determinar si un estudiante aprobó o reprobó según su promedio.
 - **Enlace:** [Ver la lección]()
 - **Conclusiones clave:** `if (promedio >= 11) { ... }`, `for (int i = 0; i < 5; i++) { ... }`.
-- **Practica aquí:** [Abrir en OnlineGDB](https://www.onlinegdb.com/online_java_compiler) — ¡Inicio inmediato!
+- **Practica aquí:** [Abrir en JDoodle](https://www.jdoodle.com/online-java-compiler) — ¡Inicio inmediato!
 
 ---
 
