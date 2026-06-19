@@ -21,7 +21,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 ### Lección 1: ¿Qué es Java y la programación? (5 minutos)
 
 - **Descripción:** Aprende qué es la programación, para qué se usa Java y cómo ejecutar tu primer programa. Escribiremos nuestro primer `Hola, mundo` y entenderemos cómo funciona un programa básico.
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/aqug0chcp7g)
 - **Conclusiones clave:** Java se usa en aplicaciones, juegos y más; `System.out.println()` muestra texto en pantalla.
 - **Practica aquí:** [Abrir en JDoodle](https://www.jdoodle.com/ga/4N0394H5bz9%2F4D4gjV9ubQ%3D%3D) — ¡No necesitas registrarte!
 
