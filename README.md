@@ -30,7 +30,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 ### Lección 2: Variables, tipos de datos y operadores (8 minutos)
 
 - **Descripción:** Aprende a almacenar información con variables. Usaremos `int`, `String`, `double` y `boolean` para guardar datos de un estudiante: su nombre, edad y promedio. También exploraremos los operadores básicos.
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/sJJhk2LqDAg)
 - **Conclusiones clave:** `int edad = 15;`, `String nombre = "Ana";`, operadores `+`, `-`, `*`, `/`.
 - **Practica aquí:** [Abrir en JDoodle](https://www.jdoodle.com/ga/FPSBqNcO1gmo6VQ2CtlIEw%3D%3D) — ¡Sin registro!
 
