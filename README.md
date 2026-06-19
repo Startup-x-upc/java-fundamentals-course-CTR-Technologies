@@ -57,7 +57,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 ### Lección 5: Introducción a la POO — Clases y objetos (12 minutos)
 
 - **Descripción:** Descubre qué es la programación orientada a objetos. Crearemos la clase `Estudiante` con atributos como nombre, edad y promedio, y aprenderemos a construir objetos a partir de ella usando constructores.
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/yZfUoiKgM_Y)
 - **Conclusiones clave:** `class Estudiante { ... }`, `Estudiante e = new Estudiante("Ana", 15, 14.5);`.
 - **Practica aquí:** [Abrir en JDoodle](https://www.jdoodle.com/ga/3FDQWJOKvgEOyOWodQ1FEg%3D%3D) — ¡Guarda y comparte tu código!
 
@@ -66,7 +66,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 ### Lección 6: Encapsulación — Getters y Setters (8 minutos)
 
 - **Descripción:** Aprende a proteger los datos de una clase con encapsulación. Modificaremos la clase `Estudiante` para usar atributos privados y métodos públicos de acceso y modificación.
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/JWveZ14M4OE)
 - **Conclusiones clave:** `private String nombre;`, `public String getNombre() { return nombre; }`, `public void setNombre(String nombre) { ... }`.
 - **Practica aquí:** [Abrir en JDoodle](https://www.jdoodle.com/ga/pH7rNMx1FfI3zB3yzOsOzg%3D%3D) — ¡No necesitas descargar nada!
 
