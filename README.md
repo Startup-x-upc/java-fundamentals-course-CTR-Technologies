@@ -75,7 +75,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 ### Lección 7: Proyecto final — Sistema de Registro de Estudiantes (12 minutos)
 
 - **Descripción:** Combinamos todo lo aprendido: usamos un array para almacenar varios objetos `Estudiante`, recorremos la lista con un bucle y mostramos quién aprobó y quién no. El resultado es nuestro programa completo.
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/fHydv1_wsNY)
 - **Conclusiones clave:** `Estudiante[] registro = new Estudiante[5];`, iterar con `for`, mostrar resultados con condiciones.
 - **Proyecto final:** [Abrir en JDoodle](https://www.jdoodle.com/ga/QgtkJwAppp2mARb9tM9mRw%3D%3D) — ¡Guarda y comparte!
 
