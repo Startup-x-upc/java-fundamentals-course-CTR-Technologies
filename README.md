@@ -21,7 +21,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 ### Lección 1: ¿Qué es Java y la programación? (5 minutos)
 
 - **Descripción:** Aprende qué es la programación, para qué se usa Java y cómo ejecutar tu primer programa. Escribiremos nuestro primer `Hola, mundo` y entenderemos cómo funciona un programa básico.
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/aqug0chcp7g)
 - **Conclusiones clave:** Java se usa en aplicaciones, juegos y más; `System.out.println()` muestra texto en pantalla.
 - **Practica aquí:** [Abrir en JDoodle](https://www.jdoodle.com/ga/4N0394H5bz9%2F4D4gjV9ubQ%3D%3D) — ¡No necesitas registrarte!
 
@@ -36,19 +36,19 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 
 ---
 
-### Lección 3: Estructuras de control — Decisiones y bucles (10 minutos)
+### Lección 3: Estructuras de control — Decisiones y bucles (2 minutos)
 
 - **Descripción:** Aprende a tomar decisiones con `if-else` y a repetir acciones con `for` y `while`. Usaremos esto para determinar si un estudiante aprobó o reprobó según su promedio.
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=Yji1nx8sy0A)
 - **Conclusiones clave:** `if (promedio >= 11) { ... }`, `for (int i = 0; i < 5; i++) { ... }`.
 - **Practica aquí:** [Abrir en JDoodle](https://www.jdoodle.com/ga/%2F1sG1PHdawtWjhw2Js7FGw%3D%3D) — ¡Inicio inmediato!
 
 ---
 
-### Lección 4: Métodos y entrada/salida con Scanner (10 minutos)
+### Lección 4: Métodos y entrada/salida con Scanner (4 minutos)
 
 - **Descripción:** Aprende a crear bloques de código reutilizables llamados métodos, y a pedir datos al usuario con `Scanner`. Crearemos un método que solicita el nombre de un estudiante y lo muestra en pantalla.
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=lpJM8a2dlhU)
 - **Conclusiones clave:** `public static void mostrarInfo() { ... }`, `Scanner sc = new Scanner(System.in);`.
 - **Practica aquí:** [Abrir en JDoodle](https://www.jdoodle.com/ga/gytq6%2FZgXneQyVHvRvSCXw%3D%3D) — ¡No necesitas registrarte!
 
