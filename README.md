@@ -84,7 +84,7 @@ El curso se compone de videos cortos, prácticas interactivas en editores de có
 ### Lección 8: Mejores prácticas y errores comunes (5 minutos)
 
 - **Descripción:** Consejos clave para escribir código limpio, cómo leer mensajes de error en Java y qué aprender a continuación en tu camino como programador.
-- **Enlace:** [Ver la lección]()
+- **Enlace:** [Ver la lección](https://youtu.be/yqLq8pQDRbc)
 - **Conclusiones clave:** Nombres descriptivos para variables, cómo leer un error de compilación, explorar la documentación oficial de Java.
 - **Recursos:** [Documentación oficial de Java](https://docs.oracle.com/en/java/)
 
